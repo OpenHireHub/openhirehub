@@ -1,0 +1,24 @@
+{
+  "name": "openhirehub-server",
+  "version": "1.0.0",
+  "description": "OpenHireHub is a dynamic, open-source job management platform tailored for modern businesses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenHireHub/openhirehub.git"
+  },
+  "keywords": [
+    "\"openhirehub\"",
+    "\"job",
+    "management\""
+  ],
+  "author": "OpenHireHub",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/OpenHireHub/openhirehub/issues"
+  },
+  "homepage": "https://github.com/OpenHireHub/openhirehub#readme"
+}
